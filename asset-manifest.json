@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/chillmusic/static/css/main.073c9b0a.css",
-    "main.js": "/chillmusic/static/js/main.8030b9f1.js",
-    "static/js/787.37e96ff6.chunk.js": "/chillmusic/static/js/787.37e96ff6.chunk.js",
-    "static/media/logo.svg": "/chillmusic/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/chillmusic/index.html",
-    "main.073c9b0a.css.map": "/chillmusic/static/css/main.073c9b0a.css.map",
-    "main.8030b9f1.js.map": "/chillmusic/static/js/main.8030b9f1.js.map",
-    "787.37e96ff6.chunk.js.map": "/chillmusic/static/js/787.37e96ff6.chunk.js.map"
+    "main.css": "/ChillMusic/static/css/main.073c9b0a.css",
+    "main.js": "/ChillMusic/static/js/main.03dfb627.js",
+    "static/js/787.37e96ff6.chunk.js": "/ChillMusic/static/js/787.37e96ff6.chunk.js",
+    "static/media/logo.svg": "/ChillMusic/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ChillMusic/index.html",
+    "main.073c9b0a.css.map": "/ChillMusic/static/css/main.073c9b0a.css.map",
+    "main.03dfb627.js.map": "/ChillMusic/static/js/main.03dfb627.js.map",
+    "787.37e96ff6.chunk.js.map": "/ChillMusic/static/js/787.37e96ff6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.8030b9f1.js"
+    "static/js/main.03dfb627.js"
   ]
 }
